@@ -395,7 +395,11 @@ Heart disease healthcare services and medication costs exceeded $168 billion dur
 
 <!-- WHY IT MATTERS -->
 
+<<<<<<< HEAD
 <div class="cvd-card">
+=======
+<div class="cvd-highlight">
+>>>>>>> 917b1d17590d91ac298e64c99733ed3ccf17b7da
 
 <h3>Why Cardiovascular Health Matters</h3>
 
@@ -404,7 +408,11 @@ Cardiovascular disease impacts individuals, families, communities, and healthcar
 </p>
 
 <p>
+<<<<<<< HEAD
 Public health interventions focused on prevention, health education, and equitable healthcare access are essential for reducing the burden of cardiovascular disease.
+=======
+Public health interventions focused on prevention, early detection, health education, and equitable healthcare access are essential for reducing the burden of cardiovascular disease.
+>>>>>>> 917b1d17590d91ac298e64c99733ed3ccf17b7da
 </p>
 
 </div>
@@ -661,7 +669,11 @@ Population-Level Prevention
 
 <!-- PUBLIC HEALTH SIGNIFICANCE -->
 
+<<<<<<< HEAD
 <div class="cvd-card">
+=======
+<div class="cvd-highlight">
+>>>>>>> 917b1d17590d91ac298e64c99733ed3ccf17b7da
 
 <h3>Public Health Significance</h3>
 
