@@ -1,0 +1,15 @@
+---
+title: "The Cardiovascular Health Landscape"
+---
+
+:::: {style="text-align: center;"}
+![](heartdashboard.jpg){width="100%"}
+
+::: explore-card
+<h2>Explore Cardiovascular Health</h2>
+
+<p>Dive into the data, risk factors, and health disparities influencing cardiovascular outcomes across populations.</p>
+
+<p>Navigate through the sections to learn about cardiovascular disease, examine population-level trends, and discover how prevention, health equity, and public health interventions can help improve cardiovascular health.</p>
+:::
+::::
