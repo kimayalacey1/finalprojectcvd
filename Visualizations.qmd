@@ -1,0 +1,86 @@
+---
+title: "Visualizations"
+---
+
+## Top 10 States with Highest Cardiovascular Mortality
+
+<iframe
+  src="graphs/top_states.html"
+  width="120%"
+  height="550px"
+  style="border: none; margin-left: -10%;"
+  frameborder="0">
+</iframe>
+
+<div class="graph-caption">
+  <span class="caption-label">♡ Health Insight</span>
+
+  Cardiovascular mortality rates vary considerably across geographic
+  locations, with <span class="caption-highlight">Guam</span>
+  reporting the highest rate in this ranking, followed by Oklahoma,
+  Mississippi, and Alabama. These patterns highlight geographic
+  disparities in cardiovascular health and the importance of
+  addressing regional health inequities.
+</div>
+
+
+## Cardiovascular Mortality: Highest vs. Lowest Locations
+
+<iframe
+  src="graphs/state_rankings.html"
+  width="120%"
+  height="550px"
+  style="border: none; margin-left: -10%;"
+  frameborder="0">
+</iframe>
+
+<div class="graph-caption">
+  <span class="caption-label">♡ Geographic Disparities</span>
+
+  The comparison between locations with the highest and lowest
+  cardiovascular mortality rates reveals substantial differences
+  in population health outcomes. These disparities may reflect
+  differences in healthcare access, socioeconomic conditions,
+  preventive care, and underlying cardiovascular risk factors.
+</div>
+
+## Cardiovascular Mortality by Race/Ethnicity
+
+<iframe
+  src="graphs/race_mortality.html"
+  width="120%"
+  height="550px"
+  style="border: none; margin-left: -10%;"
+  frameborder="0">
+</iframe>
+
+<div class="graph-caption">
+  <span class="caption-label">♡ Health Equity Spotlight</span>
+
+  <span class="caption-highlight">Black populations</span>
+  experience the highest cardiovascular mortality rate in this
+  comparison, followed by Native Hawaiian and Other Pacific
+  Islander populations. These differences emphasize the importance
+  of health equity initiatives, culturally responsive care, and
+  addressing structural barriers to cardiovascular health.
+</div>
+
+## Cardiovascular Mortality by Sex
+
+<iframe
+  src="graphs/sex_mortality.html"
+  width="120%"
+  height="550px"
+  style="border: none; margin-left: -10%;"
+  frameborder="0">
+</iframe>
+
+<div class="graph-caption">
+  <span class="caption-label">♡ Population Health Insight</span>
+
+  Male populations experience substantially higher cardiovascular
+  mortality rates than female populations. This difference
+  underscores the importance of understanding sex-related risk
+  factors, prevention strategies, early detection, and access to
+  cardiovascular care.
+</div>
