@@ -1,0 +1,346 @@
+---
+title: "Recommendations"
+format:
+  html:
+    page-layout: full
+    toc: false
+    css: styles.css
+---
+
+<div class="recommendations-hero">
+  <span class="hero-label">STRONG HEARTS, STRONG COMMUNITIES</span>
+  <h1>Moving From Data to Action</h1>
+  <p>
+    Addressing cardiovascular mortality through prevention,
+    health equity, community engagement, and policy action.
+  </p>
+  <a href="#public-health-approach" class="hero-button">
+    Explore Recommendations ↓
+  </a>
+</div>
+
+## From Cardiovascular Data to Public Health Action
+
+Cardiovascular mortality disparities highlight the need for comprehensive public health strategies that prioritize prevention, early detection, treatment, and equitable access to care.
+
+Addressing cardiovascular health requires collaboration among healthcare providers, public health professionals, policymakers, and community organizations. By implementing evidence-informed strategies at multiple levels, communities can work toward reducing preventable cardiovascular deaths and improving health outcomes.
+
+<div id="public-health-approach">
+
+<h2>The Public Health Approach</h2>
+
+<p>
+A systematic approach to cardiovascular health allows public health professionals to identify disparities, investigate contributing factors, develop interventions, and evaluate outcomes.
+</p>
+
+<div class="approach-grid">
+
+<div class="approach-card">
+<span class="approach-number">01</span>
+<h3>Define the Problem</h3>
+<p>
+Identify populations and communities experiencing disproportionate cardiovascular mortality.
+</p>
+</div>
+
+<div class="approach-card">
+<span class="approach-number">02</span>
+<h3>Identify Risk Factors</h3>
+<p>
+Examine behavioral, environmental, socioeconomic, and healthcare-related contributors to cardiovascular disease.
+</p>
+</div>
+
+<div class="approach-card">
+<span class="approach-number">03</span>
+<h3>Develop Solutions</h3>
+<p>
+Implement prevention programs, community screening, healthcare interventions, and policy strategies.
+</p>
+</div>
+
+<div class="approach-card">
+<span class="approach-number">04</span>
+<h3>Evaluate & Improve</h3>
+<p>
+Monitor outcomes, assess effectiveness, and expand successful public health interventions.
+</p>
+</div>
+
+</div>
+</div>
+
+## Prevention Strategies
+
+Cardiovascular disease prevention requires interventions across multiple stages of disease progression. Primary, secondary, and tertiary prevention strategies can help reduce risk, improve early detection, and prevent complications.
+
+<div class="prevention-section primary-prevention">
+
+<div class="prevention-header">
+<span class="prevention-label">PREVENTION LEVEL 01</span>
+<h2>Primary Prevention</h2>
+<p>Prevent cardiovascular disease before it develops.</p>
+</div>
+
+<div class="recommendation-grid">
+
+<div class="recommendation-card">
+<h3>♡ Heart-Healthy Nutrition</h3>
+<p>
+Promote access to affordable fruits, vegetables, whole grains, and lower-sodium food options.
+</p>
+</div>
+
+<div class="recommendation-card">
+<h3>♡ Physical Activity</h3>
+<p>
+Encourage regular exercise through walking programs, recreation spaces, and community fitness initiatives.
+</p>
+</div>
+
+<div class="recommendation-card">
+<h3>♡ Tobacco Prevention</h3>
+<p>
+Expand tobacco prevention education and smoking cessation programs.
+</p>
+</div>
+
+<div class="recommendation-card">
+<h3>♡ Health Education</h3>
+<p>
+Improve awareness of hypertension, diabetes, cholesterol, cardiovascular risk, and prevention.
+</p>
+</div>
+
+</div>
+
+<div class="prevention-takeaway">
+<strong>Prevention begins in the community.</strong>
+Community-based programs that promote healthy behaviors and improve access to resources can help reduce cardiovascular risk.
+</div>
+
+</div>
+
+<div class="prevention-section secondary-prevention">
+
+<div class="prevention-header">
+<span class="prevention-label">PREVENTION LEVEL 02</span>
+<h2>Secondary Prevention</h2>
+<p>Identify cardiovascular risk factors early.</p>
+</div>
+
+<div class="recommendation-grid">
+
+<div class="recommendation-card">
+<h3>♡ Blood Pressure Screening</h3>
+<p>
+Expand community-based blood pressure screening and referral programs.
+</p>
+</div>
+
+<div class="recommendation-card">
+<h3>♡ Early Detection</h3>
+<p>
+Increase screening for hypertension, diabetes, and high cholesterol.
+</p>
+</div>
+
+<div class="recommendation-card">
+<h3>♡ Mobile Health Services</h3>
+<p>
+Utilize mobile clinics to reach underserved and geographically isolated communities.
+</p>
+</div>
+
+<div class="recommendation-card">
+<h3>♡ Referral & Follow-Up</h3>
+<p>
+Connect individuals with abnormal screening results to primary care and appropriate treatment.
+</p>
+</div>
+
+</div>
+
+<div class="prevention-takeaway">
+<strong>Early detection saves lives.</strong>
+Screening should be paired with follow-up care, referrals, and accessible treatment.
+</div>
+
+</div>
+
+<div class="prevention-section tertiary-prevention">
+
+<div class="prevention-header">
+<span class="prevention-label">PREVENTION LEVEL 03</span>
+<h2>Tertiary Prevention</h2>
+<p>Reduce complications among individuals living with cardiovascular disease.</p>
+</div>
+
+<div class="recommendation-grid">
+
+<div class="recommendation-card">
+<h3>♡ Chronic Disease Management</h3>
+<p>
+Strengthen access to ongoing cardiovascular treatment and long-term disease management.
+</p>
+</div>
+
+<div class="recommendation-card">
+<h3>♡ Medication Access</h3>
+<p>
+Support medication adherence through education, affordable prescriptions, and patient assistance.
+</p>
+</div>
+
+<div class="recommendation-card">
+<h3>♡ Cardiac Rehabilitation</h3>
+<p>
+Expand access to cardiac rehabilitation and recovery services.
+</p>
+</div>
+
+<div class="recommendation-card">
+<h3>♡ Care Coordination</h3>
+<p>
+Improve communication between primary care, specialists, hospitals, and community-based services.
+</p>
+</div>
+
+</div>
+
+<div class="prevention-takeaway">
+<strong>Continuity of care matters.</strong>
+Consistent treatment, follow-up, and patient support can help prevent complications and improve quality of life.
+</div>
+
+</div>
+
+<div class="equity-section">
+
+<span class="section-label">COMMUNITY & HEALTH EQUITY</span>
+
+<h2>Addressing the Root Causes of Cardiovascular Disparities</h2>
+
+<p>
+Cardiovascular health is influenced by more than individual behaviors. Social, economic, environmental, and structural conditions can shape access to prevention, treatment, and resources. Public health strategies should prioritize the communities experiencing the greatest burden.
+</p>
+
+<div class="equity-grid">
+
+<div class="equity-card">
+<h3>Community Health Workers</h3>
+<p>
+Employ trusted community health workers to connect residents with screening, education, healthcare, and social resources.
+</p>
+</div>
+
+<div class="equity-card">
+<h3>Food Access & Nutrition Equity</h3>
+<p>
+Support food access initiatives, nutrition assistance, and healthy food availability in communities experiencing food insecurity.
+</p>
+</div>
+
+<div class="equity-card">
+<h3>Healthy Neighborhoods</h3>
+<p>
+Promote safe walking spaces, parks, recreation facilities, and environments that support physical activity.
+</p>
+</div>
+
+<div class="equity-card">
+<h3>Equitable Healthcare Access</h3>
+<p>
+Address barriers related to affordability, transportation, insurance coverage, healthcare availability, and culturally responsive care.
+</p>
+</div>
+
+</div>
+
+</div>
+
+<div class="evaluation-section">
+
+<span class="section-label">MONITORING & EVALUATION</span>
+
+<h2>How Do We Measure Progress?</h2>
+
+<p>
+Evaluating public health interventions is essential to determining whether programs effectively improve cardiovascular health outcomes. Monitoring measurable indicators can help identify successful strategies, improve program implementation, and guide future resource allocation.
+</p>
+
+<div class="evaluation-grid">
+
+<div class="evaluation-card">
+<h3>Community Screening</h3>
+<span class="evaluation-metric">Participation</span>
+<p>
+Number of individuals screened and referred for follow-up care.
+</p>
+</div>
+
+<div class="evaluation-card">
+<h3>Hypertension Prevention</h3>
+<span class="evaluation-metric">Blood Pressure Control</span>
+<p>
+Percentage of individuals achieving controlled blood pressure.
+</p>
+</div>
+
+<div class="evaluation-card">
+<h3>Primary Care Access</h3>
+<span class="evaluation-metric">Access & Utilization</span>
+<p>
+Number of individuals connected to primary care services.
+</p>
+</div>
+
+<div class="evaluation-card">
+<h3>Health Education</h3>
+<span class="evaluation-metric">Knowledge Improvement</span>
+<p>
+Changes in cardiovascular health knowledge and awareness.
+</p>
+</div>
+
+<div class="evaluation-card">
+<h3>Community Initiatives</h3>
+<span class="evaluation-metric">Program Reach</span>
+<p>
+Participation, engagement, and retention across community programs.
+</p>
+</div>
+
+<div class="evaluation-card">
+<h3>Health Equity</h3>
+<span class="evaluation-metric">Disparity Reduction</span>
+<p>
+Changes in cardiovascular mortality disparities across populations.
+</p>
+</div>
+
+</div>
+
+</div>
+
+<div class="recommendations-closing">
+
+<span class="hero-label">THE FUTURE OF CARDIOVASCULAR HEALTH</span>
+
+<h2>Building Stronger, Healthier Communities</h2>
+
+<p>
+Cardiovascular health is influenced by more than individual behavior. Geographic disparities, social determinants of health, healthcare access, and structural barriers all contribute to population health outcomes.
+</p>
+
+<p>
+Addressing cardiovascular mortality requires a coordinated public health approach that prioritizes prevention, early detection, equitable treatment, community engagement, and evidence-informed policy.
+</p>
+
+<p class="closing-statement">
+By investing in communities and reducing barriers to care, we can move toward a future where cardiovascular health opportunities are accessible to everyone.
+</p>
+
+<div class="closing-heart">♥</div>
+
+</div>
